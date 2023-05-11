@@ -60,7 +60,6 @@ class CardShoes extends StatelessWidget {
                           overflow: TextOverflow.ellipsis,
                           maxLines: 2,
                           style: TextStyle(
-                            color: Colors.black,
                             fontSize: 16,
                             fontWeight: FontWeight.bold,
                           ),
